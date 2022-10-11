@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Permanent Marker', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+.art_work{
+    height: 80vh;
+    width: 70%;
+    padding:1.5em;
+    
+    
+}
